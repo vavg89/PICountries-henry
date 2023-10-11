@@ -4,8 +4,10 @@ Para ejecutarlo con éxito, sigue estos pasos:
 
 📦 A) Primero, crea una nueva base de datos y dale el nombre "countries".
 
-🔧 B) Luego, configura las variables de entorno:
+🔧 B) Luego, configura las variables de entorno en la carpeta server:
 
-DB_USER = Tu Usuario DB_PASSWORD = Tu Contraseña DB_HOST = localhost DB_NAME = countries 🔨 C) En cada carpeta del proyecto, tanto en el cliente como en el servidor, ejecuta el comando npm install. Esto instalará todas las dependencias necesarias para el proyecto.
+DB_USER = Tu Usuario DB_PASSWORD = Tu Contraseña DB_HOST = localhost DB_NAME = countries 
+
+🔨 C) En cada carpeta del proyecto, tanto en el cliente como en el servidor, ejecuta el comando npm install. Esto instalará todas las dependencias necesarias para el proyecto.
 
 👤 D) Finalmente,ejecuta el comando npm start en cada carpeta. ¡Dale vida al proyecto!
